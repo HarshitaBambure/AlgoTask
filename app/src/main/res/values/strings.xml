@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlgoTask</string>
+    <string name="search">Search</string>
+    <array name="entries_algo">
+        <item>Odd Number</item>
+        <item>Even Number</item>
+        <item>Prime Number</item>
+        <item>Fibonacci Number</item>
+    </array>
+</resources>
